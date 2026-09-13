@@ -236,7 +236,7 @@ export default function Home() {
             }}
           >
             
-            <source src="/hero.mp4" type="video/mp4" />
+            <source src="/fake.mp4" type="video/mp4" />
           </video>
           {/* Dark overlay */}
           <div
