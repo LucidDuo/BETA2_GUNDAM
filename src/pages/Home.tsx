@@ -236,7 +236,7 @@ export default function Home() {
             }}
           >
             
-            <source src="/gundamtiger.mp4" type="video/mp4" />
+            <source src="/gundamtiger2.mp4" type="video/mp4" />
           </video>
           {/* Dark overlay */}
           <div
