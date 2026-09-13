@@ -235,6 +235,7 @@ export default function Home() {
               pointerEvents: "none",
             }}
           >
+            
             <source src="/hero.mp4" type="video/mp4" />
           </video>
           {/* Dark overlay */}
