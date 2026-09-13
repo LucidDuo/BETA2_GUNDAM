@@ -1,0 +1,10 @@
+{
+  "description": "Showcases and sells rare and limited-edition Gundam models, providing an elegant shopping experience with engaging animations and clear product categories.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
